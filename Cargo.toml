@@ -1,0 +1,10 @@
+[workspace]
+resolver="2"
+
+members = [
+    "api_common",
+    "api_application",
+    "data_access",
+    "integration_tests",
+    "service"
+]
